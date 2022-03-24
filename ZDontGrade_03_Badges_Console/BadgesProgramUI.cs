@@ -91,9 +91,9 @@ namespace _03_BadgesConsole
             Badges badge2 = new Badges(new List<string> { "B5", "C7" });
             Badges badge3 = new Badges(new List<string> { "C4", "D5" });
 
-            _badgeRepo.CreateDictionary(badge1);
-            _badgeRepo.CreateDictionary(badge2);
-            _badgeRepo.CreateDictionary(badge3);
+           // _badgeRepo.CreateDictionary(badge1);
+           // _badgeRepo.CreateDictionary(badge2);
+           // _badgeRepo.CreateDictionary(badge3);
         }
 
     }
